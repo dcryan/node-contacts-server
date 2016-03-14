@@ -1,0 +1,31 @@
+{
+  "name": "contacts",
+  "version": "0.0.1",
+  "description": "A contact applictation to save and edit a user's contacts.",
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcryan/node-contacts-server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "contacts"
+  ],
+  "author": "dcryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcryan/node-contacts-server/issues"
+  },
+  "homepage": "https://github.com/dcryan/node-contacts-server#readme"
+}
